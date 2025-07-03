@@ -1,2 +1,0 @@
-print('lists in python')
-
