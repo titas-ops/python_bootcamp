@@ -37,5 +37,4 @@ lines = [
 
 with open('myFile5.txt', 'w') as f_write:
     f_write.writelines(lines)
-
 print("New lines written to myFile5.txt.")
