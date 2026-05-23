@@ -36,7 +36,7 @@ For complete coverage, refer to the [official Python documentation](https://docs
 
 - [Official Python Docs](https://docs.python.org/3/tutorial/index.html)  
 - [Python for You & Me ](https://kushal.fedorapeople.org/pythonforyouandme.pdf)  
-
+- [GEEKS FOR GEEKS](https://www.geeksforgeeks.org/python/python-programming-language-tutorial/)
 ---
 
 *These notes are a work in progress and will continue to evolve as my understanding of Python improves.*
